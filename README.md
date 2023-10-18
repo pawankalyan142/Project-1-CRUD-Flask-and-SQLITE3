@@ -11,10 +11,8 @@
 
 ### <span style="color:blue">1.Language And Tools</span>
 ### <span style="color:blue">2.Cloning the Project</span>
-### <span style="color:blue">3.Setting Up a Virtual Environment</span>
-### <span style="color:blue">4.Activating the Virtual Environment (Windows)</span>
-### <span style="color:blue">5.Loading the .env File:</span>
-### <span style="color:blue">6.Running the Project</span>
+### <span style="color:blue">3.Running the Project: </span>
+### <span style="color:blue">4.OutPut's of The Projects</span>
 
 #
 
@@ -34,32 +32,7 @@
 https://github.com/pawankalyan142/Project-1-CRUD-Flask-and-SQLITE3.git
 ```
 
-## <span style="color:green">**Setting Up a Virtual Environment:**</span>
-
-**To work with this project, it's recommended to use a virtual environment. If you haven't already, install virtualenv using:**
-
-```
-pip install virtualenv
-```
-
-**Create a virtual environment by running:**
-
-```
-virtualenv <virtualenv_name>
-```
-
-## <span style="color:green">**Activating the Virtual Environment (Windows):**</span>
-
-**To activate the virtual environment on Windows, use this command:**
-
-```
-<virtualenv_name>\Scripts\activate
-```
-
-
-
-
-
+#
 ## <span style="color:green">**Running the Project:**</span>
 
 **Run the following command to start the project:**
