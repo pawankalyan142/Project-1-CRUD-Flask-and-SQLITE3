@@ -26,7 +26,7 @@
 **To clone this project, use the following command:**
 
 ```
-git clone https://github.com/srikanthstorm/onescan-services.git
+
 ```
 
 ## <span style="color:green">**Setting Up a Virtual Environment:**</span>
@@ -51,49 +51,8 @@ virtualenv <virtualenv_name>
 <virtualenv_name>\Scripts\activate
 ```
 
-## <span style="color:green">**Navigating to the Backend:**</span>
 
-**Navigate to the project's `Backend` folder.**
 
-## <span style="color:green">**Installing Requirements:**</span>
-
-**Use the following command to install project requirements:**
-
-```
-pip install -r requirements.txt
-```
-
-## <span style="color:green">**Installing Poppler for Windows:**</span>
-
-**To install Poppler, follow these steps:**
-
-- Download Poppler from the following URL:
-```
-https://github.com/oschwartz10612/poppler-windows/releases/tag/v23.08.0-0
-```
-<p align="center">
-  <img src="images/readme_pics/poppler.png" alt="poppler" width="100%" height="100%" />
-</p>
-
-- Click `Release 23.08.0-0.zip` to download the zip file.
-- Extract the zip file to `C:\Program Files\`.
-
-<p align="center">
-  <img src="images/readme_pics/extract_poppler.png" alt="extract_poppler" width="100%" height="100%" />
-</p>
-
-- Edit the Environment variables and add the following path to System variables:
-```
-C:\Program Files\poppler\poppler-23.08.0\Library\bin
-```
-
-## <span style="color:green">**Loading the .env File:**</span>
-
-<p align="center">
-  <img src="images/readme_pics/env.png" alt="env" width="100%" height="100%" />
-</p>
-
-**Load the `.env` file into the Backend Directory to ensure the proper functioning of your project.**
 
 
 ## <span style="color:green">**Running the Project:**</span>
@@ -101,7 +60,7 @@ C:\Program Files\poppler\poppler-23.08.0\Library\bin
 **Run the following command to start the project:**
 
 ```
-python wsgi.py
+python .\app.py
 ```
 
 **Then, open a web browser and navigate to the following address:**
