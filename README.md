@@ -12,11 +12,8 @@
 ### <span style="color:blue">1.Cloning the Project</span>
 ### <span style="color:blue">2.Setting Up a Virtual Environment</span>
 ### <span style="color:blue">3.Activating the Virtual Environment (Windows)</span>
-### <span style="color:blue">4.Navigating to the Backend:</span>
-### <span style="color:blue">5.Installing Requirements:</span>
-### <span style="color:blue">6.Installing Poppler for Windows</span>
-### <span style="color:blue">7.Loading the .env File:</span>
-### <span style="color:blue">8.Running the Project</span>
+### <span style="color:blue">5.Loading the .env File:</span>
+### <span style="color:blue">6.Running the Project</span>
 
 #
 
