@@ -48,6 +48,15 @@ http://localhost:5000
 ```
 
 
+#
+## <span style="color:green">**Running the Project:**</span>
+
+**ScreenShort-1**
+
+```
+<a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="100%" height="100%" /></a>
+```
+
 **This will allow you to access the project via your web browser.**
 
 <span style="color:orange">**Now, you're ready to dive into your project! Enjoy coding!**</span>
