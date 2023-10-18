@@ -57,15 +57,15 @@ http://localhost:5000
 #
 **ScreenShort-2 Add Student Page**
 
-<a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="2.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
 #
 **ScreenShort-3 Update Student Details**
 
-<a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="3.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
 #
 **ScreenShort-4  Delete Student Deatils**
 
-<a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="4.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
 #
 
 
