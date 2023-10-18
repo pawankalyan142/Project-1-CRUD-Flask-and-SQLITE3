@@ -55,11 +55,15 @@ http://localhost:5000
 
 <a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
 #
-**ScreenShort-1**
+**ScreenShort-2 Add Student Page**
 
 <a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
 #
-**ScreenShort-1**
+**ScreenShort-3 Update Student Details**
+
+<a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+#
+**ScreenShort-4  Delete Student Deatils**
 
 <a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
 #
