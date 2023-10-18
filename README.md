@@ -32,7 +32,7 @@
 **To clone this project, use the following command:**
 
 ```
-
+https://github.com/pawankalyan142/Project-1-CRUD-Flask-and-SQLITE3.git
 ```
 
 ## <span style="color:green">**Setting Up a Virtual Environment:**</span>
