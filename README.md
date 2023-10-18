@@ -53,9 +53,8 @@ http://localhost:5000
 
 **ScreenShort-1**
 
-```
-<a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="100%" height="100%" /></a>
-```
+<a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+
 
 **This will allow you to access the project via your web browser.**
 
