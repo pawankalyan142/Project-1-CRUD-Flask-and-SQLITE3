@@ -1,7 +1,7 @@
 <!-- Welcome to Your Project and Follow the Guidelines -->
 
 <p align="center">
-  <a href="https://osidigital.com/" target="_blank"><img src="images/readme_pics/osi.png" alt="OSI_Digital" width="100%" height="100%" /></a>
+  <a href="https://osidigital.com/" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="100%" height="100%" /></a>
 </p>
 
 
