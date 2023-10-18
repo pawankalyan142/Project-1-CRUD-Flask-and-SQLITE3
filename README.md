@@ -12,8 +12,8 @@
 ### <span style="color:blue">1.Cloning the Project</span>
 ### <span style="color:blue">2.Setting Up a Virtual Environment</span>
 ### <span style="color:blue">3.Activating the Virtual Environment (Windows)</span>
-### <span style="color:blue">5.Loading the .env File:</span>
-### <span style="color:blue">6.Running the Project</span>
+### <span style="color:blue">4.Loading the .env File:</span>
+### <span style="color:blue">5.Running the Project</span>
 
 #
 
