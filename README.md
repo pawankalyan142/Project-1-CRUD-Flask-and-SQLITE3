@@ -53,7 +53,7 @@ http://localhost:5000
 
 **ScreenShort-1**
 
-<a href="" target="_blank"><img src="1.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
+<a href="" target="_blank"><img src="home.PNG" alt="OSI_Digital" width="50%" height="50%" /></a>
 #
 **ScreenShort-2 Add Student Page**
 
